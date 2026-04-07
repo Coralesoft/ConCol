@@ -53,4 +53,4 @@ See the `examples/` folder for a few demos — colour display, a simple menu, an
 
 ## License
 
-MIT License — (c) C.Brown 2001-2026
+MIT License (c) C.Brown 2001-2026
